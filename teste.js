@@ -4,7 +4,7 @@ export default class teste extends Component {
     render() {
         return (
             <div>
-                <h2>22</h2>
+                <h2>22ee</h2>
             </div>
         )
     }
